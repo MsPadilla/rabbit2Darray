@@ -1,4 +1,4 @@
-int cols = 6;  // Number of columns
+int cols = 23;  // Number of columns
 int rows = 5;  // Number of rows
 Sprite[][] sprites; // 2D array of sprites
 
